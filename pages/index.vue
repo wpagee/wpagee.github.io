@@ -57,7 +57,7 @@ export default {
 
 .intro {
   font-size: 2rem;
-  margin: 20% auto 0; 
+  margin: 15% auto 0; 
   max-width: 800px;
 }
 </style>
